@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "KIRARI MAGIC SHOW",
+  "base_artist": "オグリキャップ (CV. 高柳知葉)、イナリワン (CV. 井上遥乃)、スマートファルコン (CV. 大和田仁美)、コパノリッキー (CV. 稲垣 好)、ホッコータルマエ (CV. 菊池紗矢香)、ワンダーアキュート (CV. 須藤叶希)",
+  "createdAt": "2026-03-30T13:13:09.793439Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KIRARI MAGIC SHOW",
+      "artist": "オグリキャップ (CV. 高柳知葉)、イナリワン (CV. 井上遥乃)、スマートファルコン (CV. 大和田仁美)、コパノリッキー (CV. 稲垣 好)、ホッコータルマエ (CV. 菊池紗矢香)、ワンダーアキュート (CV. 須藤叶希)",
+      "has_synced": false,
+      "path": "select/pl_01_KIRARI_MAGIC_SHOW_オグリキャップ_(CV._高柳知葉)、イナリワン_(CV._井上遥乃)、スマートファルコン_(CV._大和田仁美)、コパノリッキー_(CV._稲垣_好)、ホッコ.txt"
+    }
+  ]
+}
