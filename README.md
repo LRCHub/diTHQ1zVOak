@@ -1,0 +1,78 @@
+# オグリキャップ (CV. 高柳知葉)、イナリワン (CV. 井上遥乃)、スマートファルコン (CV. 大和田仁美)、コパノリッキー (CV. 稲垣 好)、ホッコータルマエ (CV. 菊池紗矢香)、ワンダーアキュート (CV. 須藤叶希) – KIRARI MAGIC SHOW
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Light up！ 未来へとKIRAめけ
+イルミネイション
+さあ 飾りはあと笑顔だけ
+Let’s party all night！
+(Happy together)
+(Happy together)
+(Oh yeah！
+I wish a Merry Christmas！)
+満天の空にさえ 勝てるような
+一瞬を創ってみようよ
+Are you ready？
+ちょっとずつ
+アイディアを繋げて
+ミルキーウェイ
+Yes！ 見たことない景色
+あらわれそう
+Ding dong 今年を
+彩るように 咲いてく
+Ding dong 夢の点灯
+ファンファーレにして始めようよ
+Shiny time！
+Light up！ 未来へと KIRAめけ
+イルミネイション
+世界をドレスアップ
+Colorful wonderland
+Enjoy！ 粉雪が手渡す
+とっておきのGreeting
+さあ まだまだ走ろう 先へ
+Let’s party all night！
+(Happy together)
+(Happy together)
+(Oh yeah！
+I wish a Merry Christmas！)
+カレンダー
+気づけばもうゴールしそう
+あっという間の日々は
+いつでもDown&Up
+願い事込めながら 光を並べて
+Yes！ はなやいだ街には
+負けてらんない
+Sing songs 遠くで
+鳴った鐘の音よりも
+Sing songs この声が
+ツリーの星にふさわしいよね
+Holy day！
+Clap hands！ 今日までを照らすよ
+イルミネイション
+プレゼントみたいな
+Fantastic,the magic
+So bright！
+輝きを次の勇気にして Running
+そう また駆け抜けたい だから
+Let’s party all night！
+ライトもハートもきっと1つだと
+(寂しい)
+だからみんなで集合…今日のように
+(分かったね)
+眩いほど Big SHOW(Sha la la)
+楽しまなくちゃ、この夜を！
+Light up！ 未来へとKIRAめけ
+イルミネイション
+世界をドレスアップ
+Colorful wonderland
+Enjoy！
+降り積もるキセキは
+祝福のFragment
+さあ まだまだ走ろう キミと
+Let’s party all night！
+Let’s party all night！
+(Happy together)
+(Happy together)
+(Yeah！ Merry Merry Christmas！)
+```
